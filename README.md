@@ -1,3 +1,5 @@
+Please run npm install and use Python 3
+
 # Pressure analytics
 
 This exercise is in 2 parts: 
